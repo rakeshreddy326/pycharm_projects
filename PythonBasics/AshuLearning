@@ -1,0 +1,10 @@
+myname = "ashwitha"
+firstname='ashu
+secondname='pinky'
+fullname=firstname+secondname
+println(fullname)
+fullname
+fullname
+fullname
+fullname
+fullname
